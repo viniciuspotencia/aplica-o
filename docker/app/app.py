@@ -1,4 +1,3 @@
-#fakdjfdaksfjsaf
 from flask import Flask, render_template, g
 import sqlite3
 
